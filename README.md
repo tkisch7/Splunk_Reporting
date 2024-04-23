@@ -1,4 +1,4 @@
-<h1>Advanced Hunting APTs with Splunk</h1>
+<h1>Creating Reports and Dashboards with Splunk</h1>
 
 <h2>Description</h2>
 Creating reports and dashboards is a great way to automate searches and create a user interface that displays some important information. Organizations may want to schedule searches to reduce the load on the search head and to make searches without user interjection. Dashboards can help create visualizations to provide the end user with quick information about the data that is present. Also, dashboards can be useful when providing data to stakeholders as they can provide a great overview of the logs.
